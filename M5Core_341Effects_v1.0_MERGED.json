@@ -1,0 +1,12 @@
+{
+  "name": "341 Effects Screensaver",
+  "version": "1.0",
+  "description": "Ultimate M5Stack Core1 Screensaver Collection - 341 Stunning Visual Effects including Plasma, Fractals, Particle Systems, 3D Simulations, Geometric Patterns, Abstract Animations, and Classic Screensaver Effects. Ported from XscreensCYD with full compatibility layer. Button A: Next, Button B: Previous, Button C Hold: Auto-scroll.",
+  "author": "CoreyMillia",
+  "category": "Visual/Entertainment",
+  "file": "M5Core_341Effects_v1.0_MERGED.bin",
+  "bootloader": "0x1000",
+  "partition": "0x8000",
+  "app": "0x10000",
+  "chip": "esp32"
+}
