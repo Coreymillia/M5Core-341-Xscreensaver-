@@ -71,4 +71,13 @@ This project demonstrates how to port Arduino_GFX-based projects to M5Stack hard
 3. Updating PlatformIO configuration for M5Stack
 4. Preserving all original effect code unchanged
 
-The conversion maintains 100% of the original visual effects while adapting the hardware interface.
+What it should do -- The conversion maintains 100% of the original visual effects while adapting the hardware interface.
+It may or may not maintain 100% of the original visual effects.. going to say it does not. I still have not really tried to build the actual source on a pi yet. Some were converted from 3D to 2D which were probably already conversions of 2D effects somewhere along the line. I doubt anyone cares. But I am still planning on starting this entire project over some day and get it organized a little better. 
+
+With that being said, there are a LOT of cool things in this project with plenty of room to expand. 
+
+License & Attribution
+This project ports effects originally from XScreensaver by Jamie Zawinski and contributors. The XScreensaver license permits modification and distribution for non-Windows platforms.
+
+Original XScreensaver: https://www.jwz.org/xscreensaver/
+License: MIT-compatible (no Windows restriction clause applies)
